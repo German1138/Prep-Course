@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url(https://media.lacapital.com.ar/p/29bdc3ae82cf51bbc76740b37b445ea1/adjuntos/205/imagenes/029/162/0029162799/1200x675/smart/palmar.jpg);
+}
+/* div{
+    display: flex;
+    justify-content: center;
+} */
+h1{
+    color: blueviolet;
+ }
+img{
+    width: 400px;
+}
+#thirdDiv{
+    justify-content:center;
+    height: 600px;
+    width: 500px;
+    background-color: brown;
+    padding: 50px;
+    border: 2px dotted green;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    background-color: chartreuse;
+}
+.divClass{
+    background-color:salmon;
+}
